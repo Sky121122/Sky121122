@@ -122,6 +122,14 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sky121122/Sky121122/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sky121122/Sky121122/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sky121122/Sky121122/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 <div align="center">
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG43OGprbjM3dGY4Njhqb3J4OGx0aHY4b3g2ZTFuYngzNnp1dGN2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif"  />
